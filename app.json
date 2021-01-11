@@ -1,0 +1,12 @@
+{
+  "name": "memegram-frontend",
+  "displayName": "memegram-frontend",
+  "expo": {
+    "name": "memegram-frontend",
+    "slug": "memegram-frontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
